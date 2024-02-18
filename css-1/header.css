@@ -6,7 +6,7 @@ hr {
   border-color: #ffffff;
 }
 .header {
-  width: 1400px;
+  width: 1200px;
   height: 112px;
   padding: 25px;
   display: flex;
@@ -63,7 +63,7 @@ hr {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 560px;
+  width: 400px;
   height: 40px;
   border: 1px solid #dde2e4;
   border-radius: 6px;
